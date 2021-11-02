@@ -2,8 +2,6 @@
 
 This an example project to show the TIG (Telegraf, InfluxDB and Grafana) stack.
 
-![Example Screenshot](./example.png?raw=true "Example Screenshot")
-
 ## Start the stack with docker compose
 
 ```bash
